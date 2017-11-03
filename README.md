@@ -10,7 +10,7 @@ Setup Instrusctions:
 		In the 1st Coordinates box set that number to 9999. The number will auto change to it max value.
 		Divide that max value by 2 and set the 1st box to that divided value.
 		This will ensure its in the middle.
-		Leave the second box at 0, as this adjust the height of the visualizer.
+		Leave the second box at 0, as this adjusts the height of the visualizer.
 		To change the characteristics of the visualizer, load the settings box:
 		"Fountain of Colors\SettingsWindow\SettingsWindow.ini"
 		You will mainly want to adjust the number of bars to fit it on your screen.
