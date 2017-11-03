@@ -1,0 +1,10 @@
+[MeasureAudioRepeat]
+Measure=Plugin
+Group=Audio
+Plugin=AudioLevel
+Parent=MeasureAudio
+Type=Band
+BandIdx=Repeat
+[MeterBarRepeat]
+Meter=Bar
+MeasureName=MeasureAudioRepeat
