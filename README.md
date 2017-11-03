@@ -11,7 +11,7 @@ Setup Instrusctions:
 Selecting Wallpapers:
 		
 		This setup works best with minimalistic or dark wallpapers.
-		simpledesktops.com is a good website to get nice minimal design desktops.... or Google
+		simpledesktops.com is a good website to get nice minimal design desktops.... or Google.
 
 Use cases:
 			
